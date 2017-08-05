@@ -1,0 +1,1 @@
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/obj/Debug/monogame-template.csproj.CoreCompileInputs.cache
