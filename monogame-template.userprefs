@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{C52A22D7-DE80-45A6-B722-6973D33F3893}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="monogame-template/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="monogame-template/Program.cs">
     <Files>
-      <File FileName="monogame-template/Main.cs" Line="13" Column="47" />
+      <File FileName="monogame-template/Main.cs" Line="14" Column="38" />
+      <File FileName="monogame-template/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

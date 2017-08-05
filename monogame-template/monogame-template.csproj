@@ -8,8 +8,8 @@
     <ProjectGuid>{C52A22D7-DE80-45A6-B722-6973D33F3893}</ProjectGuid>
     <ProjectTypeGuids>{A3F8F2AB-B479-4A4A-A458-A89E7DC349F1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MonoMacGameView</RootNamespace>
-    <AssemblyName>MonoMacGameView</AssemblyName>
+    <RootNamespace>MonoGameTemplate</RootNamespace>
+    <AssemblyName>MonoGameTemplate</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <TargetFrameworkIdentifier>Xamarin.Mac</TargetFrameworkIdentifier>
   </PropertyGroup>
@@ -44,7 +44,8 @@
     <UseRefCounting>false</UseRefCounting>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Main.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />

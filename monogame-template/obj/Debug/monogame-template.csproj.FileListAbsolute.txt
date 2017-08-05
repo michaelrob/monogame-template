@@ -1,1 +1,11 @@
 /Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/obj/Debug/monogame-template.csproj.CoreCompileInputs.cache
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/obj/Debug/monogame-template.csprojResolveAssemblyReference.cache
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/MonoGameTemplate.exe
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/MonoGameTemplate.pdb
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/MonoGame.Framework.dll
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/OpenTK.dll
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/Xamarin.Mac.dll
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/MonoGame.Framework.xml
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/bin/Debug/OpenTK.dll.config
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/obj/Debug/MonoGameTemplate.exe
+/Users/michaelrobinson/dev/workspace/monogame-template/monogame-template/obj/Debug/MonoGameTemplate.pdb
