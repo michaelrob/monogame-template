@@ -1,18 +1,22 @@
 using System;
-
+using System.Collections.Generic;
+using System.Linq;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
 
 namespace MonoGameTemplate {
 	public class Game1 : Game {
-		GraphicsDeviceManager graphics;
-		SpriteBatch spriteBatch;
+        public GraphicsDeviceManager graphics;
+		public SpriteBatch spriteBatch;
 
-		public Game1() {
+		public Game1()
+		{
 			graphics = new GraphicsDeviceManager(this);
 			Content.RootDirectory = "Content";
-			graphics.IsFullScreen = true;
 		}
 
 		protected override void Initialize() {

@@ -44,34 +44,30 @@
     <UseRefCounting>false</UseRefCounting>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Xamarin.Mac" />
+    <Reference Include="MonoGame.Framework">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\MonoGame.framework\v3.7.0.719\Assemblies\MacOSX\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.Network">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\MonoGame.framework\v3.7.0.719\Assemblies\MacOSX\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\MonoGame.framework\v3.7.0.719\Assemblies\MacOSX\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="Tao.Sdl">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\MonoGame.framework\v3.7.0.719\Assemblies\MacOSX\Tao.Sdl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
-  </ItemGroup>
-  <ItemGroup>
-    <NativeReference Include="..\..\..\..\Library\Application Support\VisualStudio\7.0\LocalInstall\Addins\MonoDevelop.MonoGame.Templates.MonoDevelop.MonoGame.Templates.0.3\MonoDevelop.MonoGame.Templates.dll">
-      <Kind>Static</Kind>
-      <SmartLink>False</SmartLink>
-    </NativeReference>
-    <NativeReference Include="..\..\..\..\..\..\Library\Frameworks\Mono.framework">
-      <Kind>Framework</Kind>
-      <SmartLink>False</SmartLink>
-    </NativeReference>
-    <NativeReference Include="..\..\..\..\..\..\Library\Frameworks\Mono.framework">
-      <Kind>Framework</Kind>
-      <SmartLink>False</SmartLink>
-    </NativeReference>
-    <NativeReference Include="..\..\..\..\..\..\Library\Frameworks\MonoGame.framework\v3.6.0.1625\Assemblies\MacOSX\MonoGame.Framework.dll">
-      <Kind>Static</Kind>
-      <SmartLink>False</SmartLink>
-    </NativeReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="MonoGame.Framework">
-      <HintPath>..\..\..\..\..\..\Library\Frameworks\MonoGame.framework\v3.6.0.1625\Assemblies\MacOSX\MonoGame.Framework.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
 </Project>
