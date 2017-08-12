@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "xnaTest", "xnaTest\xnaTest.shproj", "{8B3B0D89-B30C-4BCB-9304-FF1E2C398298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xnaTest.Desktop", "xnaTest.Desktop\xnaTest.Desktop.csproj", "{8E1A24CC-553E-4ADF-85EB-BB22D5A34BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+{8B3B0D89-B30C-4BCB-9304-FF1E2C398298}.Debug|AnyCPU.ActiveCfg = Debug
+{8B3B0D89-B30C-4BCB-9304-FF1E2C398298}.Debug|AnyCPU.Build.0 = Debug
+{8B3B0D89-B30C-4BCB-9304-FF1E2C398298}.Release|AnyCPU.ActiveCfg = Release
+{8B3B0D89-B30C-4BCB-9304-FF1E2C398298}.Release|AnyCPU.Build.0 = Release
+{8E1A24CC-553E-4ADF-85EB-BB22D5A34BBC}.Debug|AnyCPU.ActiveCfg = Debug
+{8E1A24CC-553E-4ADF-85EB-BB22D5A34BBC}.Debug|AnyCPU.Build.0 = Debug
+{8E1A24CC-553E-4ADF-85EB-BB22D5A34BBC}.Release|AnyCPU.ActiveCfg = Release
+{8E1A24CC-553E-4ADF-85EB-BB22D5A34BBC}.Release|AnyCPU.Build.0 = Release
+	EndGlobalSection
+EndGlobal

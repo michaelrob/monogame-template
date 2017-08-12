@@ -1,0 +1,11 @@
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/MonoGame.Framework.dll.config
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/libopenal.1.dylib
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/libSDL2-2.0.0.dylib
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/xnaTest.exe
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/xnaTest.pdb
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/MonoGame.Framework.dll
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/bin/Debug/MonoGame.Framework.xml
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/obj/Debug/xnaTest.Desktop.csprojResolveAssemblyReference.cache
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/obj/Debug/xnaTest.Desktop.csproj.CoreCompileInputs.cache
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/obj/Debug/xnaTest.exe
+/Users/michaelrobinson/dev/workspace/xnaTest/xnaTest.Desktop/obj/Debug/xnaTest.pdb
