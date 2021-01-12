@@ -1,0 +1,9 @@
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/obj/Debug/monogame_template.csprojAssemblyReference.cache
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/obj/Debug/monogame_template.csproj.CoreCompileInputs.cache
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/bin/Debug/monogame_template.pdb
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/bin/Debug/MonoGame.Framework.dll
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/bin/Debug/MonoGame.Framework.xml
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/obj/Debug/monogame_template.csproj.CopyComplete
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/obj/Debug/monogame_template.pdb
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/bin/Debug/monogame_template.exe
+/Users/michaelrobinson/Projects/monogame_template/monogame_template/obj/Debug/monogame_template.exe
